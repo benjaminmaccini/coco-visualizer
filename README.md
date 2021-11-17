@@ -1,5 +1,7 @@
 # COCO-Visualizer
 
+![](video_example.mp4)
+
 A simple visualization library for the COCO dataset format.
 
 Only supports bounding boxes for now.
