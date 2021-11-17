@@ -1,0 +1,5 @@
+images/*
+out/*
+**/*.jpg
+.vscode/
+.DS_STORE
