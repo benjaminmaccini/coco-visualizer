@@ -3,3 +3,4 @@ out/*
 **/*.jpg
 .vscode/
 .DS_STORE
+*.json
